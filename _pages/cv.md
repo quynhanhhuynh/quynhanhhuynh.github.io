@@ -66,8 +66,7 @@ Skills
 Languages
 ======
 * Vietnamese (Native)
-* English (IELTS 7.5)
-* TOEIC 970
+* English (IELTS 7.5, TOEIC 970)
 
 Interests
 ======

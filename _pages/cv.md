@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF CV]({{ base_path }}/images/QuynhAnhHuynh_CV.pdf){: .btn .btn--primary}
+[Download PDF CV]({{ base_path }}/images/QuynhAnh_Huynh_CV.pdf){: .btn .btn--primary}
 
 Profile
 ======
-International Business student at the University of Economics - The University of Da Nang with a growing focus on sustainable innovation, tourism, ESG, and startup strategy. I enjoy turning research, local insight, and creative problem-solving into practical business ideas with social impact.
+International Business student at the University of Economics - The University of Da Nang with a growing focus on AI, organizational behavior, startup strategy, and technology-driven business innovation. I enjoy turning research, user insight, and practical experimentation into ideas that create measurable impact.
 
 Education
 ======
 * **Bachelor of Arts in International Business**, University of Economics - The University of Da Nang, Da Nang, Vietnam
   * 2024 - Present
-  * GPA: 3.42/4.0
+  * GPA: 3.4/4.0
   * Relevant coursework: Service Marketing, Business Strategy, Finance, Supply Chain Management, International Business
 
 Achievements
@@ -38,43 +38,41 @@ Achievements
 * **Most Impressive Award - Grab the Beyond 2025**, Da Nang, Vietnam
   * July 2025 - August 2025
   * Built a hyper-local mobility solution addressing last-mile gaps in Central Vietnam tourism zones
-  * Evaluated by Grab regional leadership for innovation, feasibility, and go-to-market potential
+  * Evaluated by Grab regional leadership for innovation, feasibility, and GTM strategy
 
 Projects
 ======
 * **ANVAGO** - Co-Founder, Da Nang, Vietnam
   * 2025 - Present
-  * Co-founded a digital tourism platform helping international visitors access trusted travel information and local services in Central Vietnam
-  * Conducted user research to identify traveler needs, service gaps, and tourism opportunities
+  * Built a real-time itinerary planning and local service discovery platform for Danang
+  * Analyzed user behavioral data to optimize service discovery and boost engagement
   * Designed the business model canvas and pitch deck using international business frameworks
-  * Connected tourism innovation with local cultural resources and sustainable destination development
+  * Surpassed 400 monthly service requests by April 2026, showing steady growth after launch
 
 Research Interests
 ======
-* Sustainable innovation and business transformation
-* ESG practices among benchmark enterprises
-* Sustainable tourism and creative industries
-* Community-based business models and local value creation
+* AI adoption in the workplace and its effect on employee roles, workload, and psychological well-being
+* Behavioral responses to AI-driven management systems, including motivation, trust, and resistance
+* Cross-cultural differences in AI acceptance and organizational adaptation, especially in Southeast Asia
+* The intersection of technology integration and human capital strategy in high-growth startup environments
 
 Skills
 ======
 * Strategic planning
 * Brand marketing
 * Copywriting
-* Team leadership
-* Research documentation
-* Academic communication
+* Hiring
 
 Languages
 ======
 * Vietnamese (Native)
 * English (IELTS 7.5)
-* TOEIC 970 completed, certificate issuance pending as of April 26, 2026
+* TOEIC 970
 
 Interests
 ======
-* Sustainable tourism
-* ESG
+* AI and the future of work
+* Organizational behavior
 * Creative and cultural industries
 * Social entrepreneurship
 * Startup ecosystems
